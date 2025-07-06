@@ -1,2 +1,2 @@
 Frontend Development Project
-🔗 Live Demo [View Deployment](https://frontend-devopment-project.netlify.app/)
+🔗 Live Demo [View Deployment](https://frontend-development-project.netlify.app/)
